@@ -8,6 +8,7 @@ body{
 	margin-bottom: 100px;
 
 }
+
 img{
 	display: block;
 	border-radius: 50%;
@@ -59,4 +60,15 @@ nav li a:hover{
 	text-decoration: underline;
 	color:white;
 }
+
+.social img{
+	width: 2%;
+	display: inline-block;
+}
+
+.social{
+	margin-right: auto;
+	margin-left: auto;
+}
+
 
