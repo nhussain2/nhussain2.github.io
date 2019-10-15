@@ -62,13 +62,12 @@ nav li a:hover{
 }
 
 .social img{
-	width: 2%;
+	width: 30%;
 	display: inline-block;
 }
 
 .social{
-	margin-right: auto;
-	margin-left: auto;
+	margin: 0 auto;
+	width: 100px;
 }
-
 
