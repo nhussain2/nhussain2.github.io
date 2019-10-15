@@ -3,6 +3,9 @@ body{
 	padding-left: 2em;
 	padding-right: 2em;
 	font-family: Tahoma, Geneva, sans-serif;
+	color:white;
+	margin-top: 100px;
+	margin-bottom: 100px;
 
 }
 img{
@@ -10,12 +13,50 @@ img{
 	border-radius: 50%;
 	margin-left:auto;
 	margin-right: auto;
-	width: 18%;
-	height: 18%;
+	width: 16%;
+	height: 16%;
 	border: 3px solid white;
 }
 
-.index h1{
+.name{
 	color: white;
-	text-align: center; 
+	text-align: center;
+	font-size: 40px; 
 }
+
+.index p{
+	color:white;
+	text-align: center;
+	line-height: 0px;
+}
+
+nav{
+	text-align:center;
+	color:white;
+}
+
+nav ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	display:inline-block;
+	margin-top: -15px;
+}
+
+nav li{
+	float: left;
+}
+
+nav li a{
+	display:block;
+	color:white;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+}
+
+nav li a:hover{
+	text-decoration: underline;
+	color:white;
+}
+
