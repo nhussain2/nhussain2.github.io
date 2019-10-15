@@ -1,0 +1,16 @@
+body{
+	background-color: black;
+	padding-left: 2em;
+	padding-right: 2em;
+	font-family: "Roboto", Roboto, serif;
+}
+img{
+	display: block;
+	border-radius: 50%;
+	margin-left:auto;
+	margin-right: auto;
+	width: 20%;
+	height: 20%;
+	border: 3px solid white;
+}
+
