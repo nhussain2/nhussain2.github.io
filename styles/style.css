@@ -105,6 +105,8 @@ nav li a:hover{
 
 .links{
 	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 5px;
 }
 
 h1{
@@ -114,7 +116,9 @@ h1{
 	font-size: 50px;
 	margin-top: 5px;
 	margin-bottom: 5px;
+	padding-bottom: 0px;
 }
+
 
 h3{
 	font-family: 'Oswald', sans-serif;
@@ -124,5 +128,13 @@ h3{
 	border-bottom: 1px solid black;
 	margin-right: 240px;
 	margin-left: 240px;
+	padding-top: 0px;
 }
 
+.resumelinks{
+	padding: 0px;
+	text-align:center;
+}
+.resumelinks fa{
+	padding-bottom: 0px;
+}
