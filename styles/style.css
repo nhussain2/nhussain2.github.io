@@ -17,7 +17,7 @@ img{
 	margin-right: auto;
 	width: 16%;
 	height: 16%;
-	border: 1px solid black;
+	border: 1px solid #852DEB;
 	padding:4px;
 }
 
@@ -41,7 +41,7 @@ img:hover{
 
 }
 .name:hover{
-	color:#4AFFED;
+	color:#852DEB;
 }
 
 .summary {
@@ -85,7 +85,7 @@ nav li a{
 }
 
 nav li a:hover{
-	background-color:#4AFFED;
+	background-color:#852DEB;
 }
 
 .fa{
@@ -99,7 +99,7 @@ nav li a:hover{
 }
 
 .fa:hover{
-	background-color:#4AFFED ;
+	background-color:#852DEB ;
 }
 
 
@@ -131,10 +131,31 @@ h3{
 	padding-top: 0px;
 }
 
-.resumelinks{
-	padding: 0px;
-	text-align:center;
+h4{
+	font-family: 'Nanum Gothic', sans-serif;
+	font-weight: bolder;
+	margin-right: 240px;
+	margin-left: 240px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
-.resumelinks fa{
-	padding-bottom: 0px;
+
+.resume p {
+	margin-left: 240px;
+	margin-right: 240px;
+	margin-top: 5px;
+	padding-top: 0px;
+	font-size: 15px;
+	margin-bottom: 5px;
+}
+
+.resume ul{
+	margin-left: 200px;
+	margin-right: 240px;
+	list-style-type: none;
+	margin-top: 5px;
+	color:#852DEB;
+	opacity: 70%;
+	font-size: 13px;
+
 }
