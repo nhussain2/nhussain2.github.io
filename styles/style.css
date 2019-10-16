@@ -17,7 +17,12 @@ img{
 	margin-right: auto;
 	width: 16%;
 	height: 16%;
-	border: 3px solid black;
+	border: 1px solid black;
+	padding:4px;
+}
+
+img:hover{
+	opacity: 50%;
 }
 
 .avatar:hover{
@@ -74,14 +79,32 @@ nav li a{
 	display:block;
 	color:black;
 	text-align: center;
-	padding: 16px;
+	padding: 10px;
 	text-decoration: none;
+	font-weight: bold;
 }
 
 nav li a:hover{
-	color:#4AFFED;
+	background-color:#4AFFED;
+}
+
+.fa{
+  padding: 10px;
+  font-size: 29px;
+  width: 29px;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.fa:hover{
+	background-color:#4AFFED ;
 }
 
 
+.links{
+	text-align: center;
+}
 
 
