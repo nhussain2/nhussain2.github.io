@@ -212,3 +212,23 @@ ul{
 	padding-top: 10px;
 	padding-bottom: 0px;
 }
+.architectpics{
+	text-align: center;
+	padding-bottom: 20px;
+	border-bottom: 1px solid black;
+	margin-right: 240px;
+	margin-left: 240px;
+}
+
+.architectpics img{
+	border-radius: 0%;
+	display: inline-block;
+	height: 150px;
+	width: 300px;
+}
+
+.links p{
+	padding-top: 0px;
+	font-size: 12px;
+	margin-top: 0px;
+}
