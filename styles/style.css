@@ -249,3 +249,18 @@ ul{
 	color:white;
 	background-color: #852DEB;
 }
+.download p{
+	font-size: 15px;
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+}
+
+.download a{
+	color:#852DEB;
+	text-decoration: none;
+}
+.download a:hover{
+	color:white;
+	background-color: #852DEB;
+}
+
