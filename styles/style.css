@@ -21,7 +21,7 @@ img{
 	padding:4px;
 }
 
-img:hover{
+.avatar img:hover{
 	opacity: 50%;
 }
 
@@ -132,7 +132,6 @@ h1{
 }
 
 
-
 h3{
 	font-family: 'Oswald', sans-serif;
 	font-size: 25px;
@@ -171,4 +170,29 @@ ul{
 	opacity: 70%;
 	font-size: 13px;
 
+}
+
+
+.projectimg{
+	text-align: center;
+	width: 90%;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+.projects figure{
+	width: 20%;
+	height: 20%;
+	padding: 0px;
+	display: inline-block;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.projects figcaption{
+	padding-top: 10px;
+	font-size: 15px;
+}
+
+.projectimg img:hover{
+	background-color: #852DEB;
 }
