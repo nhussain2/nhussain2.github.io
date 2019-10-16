@@ -107,4 +107,22 @@ nav li a:hover{
 	text-align: center;
 }
 
+h1{
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	font-weight: lighter;
+	font-size: 50px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+h3{
+	font-family: 'Oswald', sans-serif;
+	font-size: 25px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-bottom: 1px solid black;
+	margin-right: 240px;
+	margin-left: 240px;
+}
 
