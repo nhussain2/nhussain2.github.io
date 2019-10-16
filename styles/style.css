@@ -232,3 +232,20 @@ ul{
 	font-size: 12px;
 	margin-top: 0px;
 }
+
+.website p{
+	padding: 10px;
+	font-size: 13px;
+}
+
+.website a{
+	color:#852DEB;
+	text-decoration: none;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+.website a:hover{
+	color:white;
+	background-color: #852DEB;
+}
