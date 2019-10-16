@@ -196,3 +196,19 @@ ul{
 .projectimg img:hover{
 	background-color: #852DEB;
 }
+
+.projects p{
+	margin-left: 240px;
+	margin-right: 240px;
+	text-align: center;
+}
+
+.projects h2{
+	font-size: 18px;
+	margin-left: 240px;
+	margin-right: 240px;
+	text-align: center;
+	border-top: 1px solid black;
+	padding-top: 10px;
+	padding-bottom: 0px;
+}
