@@ -257,7 +257,8 @@ ul{
 
 .download a{
 	color:#852DEB;
-	text-decoration: none;
+	text-decoration: blink;
+	font-weight: bold;
 }
 .download a:hover{
 	color:white;
